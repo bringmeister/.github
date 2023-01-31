@@ -1,11 +1,6 @@
 Bringmeister
 ============
 
-### ⚙️ &nbsp;GitHub Analytics
+This is the GitHub account of Bringmeister - an online grocery store based in Berlin.
 
-<p align="center">
-<a href="https://github.com/tuhrig">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuhrig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuhrig&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+You can find us at [https://www.bringmeister.de](https://www.bringmeister.de).
